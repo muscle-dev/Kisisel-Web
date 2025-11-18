@@ -1,0 +1,145 @@
+header {
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 300px;
+    padding-top: 40px;
+    background-image: url("../img/mc\ arkaplannn.jpg");
+
+}
+
+header h1 {
+    margin-bottom: 60px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/arkaplan.jpeg");
+
+}
+
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.5;
+    ;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    text-align: center;
+    background-color: burlywood;
+    text-decoration: none;
+}
+
+nav ul li a {
+    display: block;
+    padding: 20px;
+    color: rgb(72, 43, 43);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+div section article img{
+    width: 500px;
+    height: auto;
+    display: flex;
+}
+div{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+main section {
+    flex: 1;
+    gap: 20px;
+    padding: 20px;
+    width: 700px;
+    max-width: 700px;
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+
+
+
+main {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    width: 1000px;
+    max-width: 1000px;
+    
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.card-img {
+    flex: 1;
+}
+
+.card {
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+.div-yan{
+     position: relative;
+    bottom: 1711px;
+    left: 700px;
+    width: 600px;
+    height:auto;
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
